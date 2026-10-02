@@ -53,6 +53,7 @@ Tools that only ever quote their sources, so they cannot hallucinate.
 | Project | What it does | |
 |---|---|---|
 | [**Anchor**](https://github.com/ramsai676/anchor) | Finds obligations, deadlines and risks in a contract and shows the clause each one came from. | [Demo ↗](https://ramsai676.github.io/anchor/#demo) |
+| [**Termwise**](https://github.com/ramsai676/termwise) | Tracks the deadlines and duties inside your contracts, each one cited to its clause. | |
 | [**Leaflet**](https://github.com/ramsai676/leaflet) | Serious warnings for the medicines you take, quoted from FDA-approved labels. | [Demo ↗](https://ramsai676.github.io/leaflet/) |
 | [**Signalpost**](https://github.com/ramsai676/signalpost-agent) | Resolves a Norwegian organisation number into a company profile where every fact links to its source. | |
 
@@ -79,6 +80,13 @@ Small, dependency-free tools that do one job properly.
 | [**Tessera**](https://github.com/ramsai676/tessera) | Join data to administrative boundaries, report honestly what didn't match, render SVG choropleths. |
 | [**Switchboard**](https://github.com/ramsai676/switchboard-agent) | Routes a question to whoever knows, on their own channel, then learns the answer. |
 
+## 🧩 Apps & platforms
+
+| Project | What it does |
+|---|---|
+| [**EduMate**](https://github.com/ramsai676/digital_dynamos) | A learning platform with a Socratic AI tutor that answers in guiding questions, plus mentor matching, credits, leaderboards and verifiable certificates. Built by team Digital Dynamos. [Live ↗](https://digital-dynamos.vercel.app) |
+| [**SecureNote**](https://github.com/ramsai676/digitalbrings-notesecure) | A local-first vault for passwords, API keys and recovery codes that also maps the registrar, DNS, hosting and renewals behind every site you run. No account, no cloud, no telemetry. [Download ↗](https://digitalbrings-securenote.netlify.app) |
+
 ## 🤖 AI Business Toolkit
 
 Six focused tools that automate the unglamorous parts of running a business.
@@ -96,7 +104,6 @@ Six focused tools that automate the unglamorous parts of running a business.
 
 | Event | Project | |
 |---|---|---|
-| **NASA Space Apps 2025** | [**ExoPlanetHunt**](https://github.com/ramsai676/A-World-Away-Hunting-for-Exo-Planets-with-AI): an AI pipeline that scores Kepler exoplanet candidates | [Demo ↗](https://ramsai676.github.io/A-World-Away-Hunting-for-Exo-Planets-with-AI/) |
 | **VoltHacks 2026** | [**Hum**](https://github.com/ramsai676/hum-acoustic-monitor): acoustic predictive maintenance, on-device | [Demo ↗](https://ramsai676.github.io/hum-acoustic-monitor/) |
 
 ---
